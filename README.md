@@ -1,6 +1,6 @@
 # PERSONAL-PORTFOLIO-WEBSITE
 
-*COMPANY*:CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: DISHANTH M
 
@@ -18,5 +18,7 @@ Technologies Used: HTML, CSS, and JavaScript.
 #OUTPUT
 
 <img width="1898" height="907" alt="Image" src="https://github.com/user-attachments/assets/ee2e26f7-3633-470e-8399-5352d0c8d0b9" />
+
+<img width="1903" height="899" alt="Image" src="https://github.com/user-attachments/assets/cfb01180-9cd6-4d7f-8809-e509c4c82015" />
 
 
